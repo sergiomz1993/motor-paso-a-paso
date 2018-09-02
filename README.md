@@ -1,4 +1,4 @@
-# motor-paso-a-paso
+# motor-paso-a-paso con transistores
 /*
   www.diymakers.es
   by A.García
